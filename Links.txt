@@ -6,3 +6,7 @@ https://dev.mysql.com/downloads/installer/
 https://github.com/
 
 https://git-scm.com/downloads
+
+------------------------
+MY SQL downloads
+https://dev.mysql.com/downloads/file/?id=512697
