@@ -4,3 +4,5 @@ https://code.visualstudio.com/Download
 https://dev.mysql.com/downloads/installer/
 
 https://github.com/
+
+https://git-scm.com/downloads
